@@ -7,8 +7,46 @@ header img {
 
 .search-area {
   text-align: center;
-  background-color: #e3e3e3;
-  width: 848px;
+  background-color: rgb(238, 238, 238);
+  width: 50%;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 5px;
+}
+
+/* Bottom Area */
+
+ul {
+  list-style: none;
+}
+
+section {
+  display: flex;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
+
+.special-searches {
+  background-color: rgb(126, 229, 218);
+  width: 40%;
+  margin-right: 5px;
+}
+
+.info {
+  background-color: rgb(112, 204, 194);
+  width: 20%;
+  margin-right: 5px;
+}
+
+.contact {
+  background-color: rgb(98, 179, 170);
+  text-align: center;
+  width: 40%;
+  padding-top: 1.5em;
+}
+
+footer {
+  text-align: center;
 }
