@@ -2,15 +2,13 @@ header img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 140px;
+  height: 114px;
 }
 
 .search-area {
   text-align: center;
   background-color: #e3e3e3;
-  font-size: 20px;
-}
-
-.search-btn {
-  font-size: 18px;
+  width: 848px;
+  margin-left: auto;
+  margin-right: auto;
 }
